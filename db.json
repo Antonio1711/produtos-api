@@ -1,0 +1,8 @@
+{
+  "tabela": [
+    { "id": 1, "produto": "poke ball", "preco": 200 },
+    { "id": 2, "produto": "potion", "preco": 300 },
+    { "id": 3, "produto": "antidote", "preco": 100 },
+    { "id": 4, "titulo": "paralyze heal", "preco": 350 }
+  ]
+}
